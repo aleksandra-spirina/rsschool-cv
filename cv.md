@@ -8,7 +8,7 @@
 * Telegram: @sunnyname 
 
 ### **About myself**
-I am a third-year student of FAMS BSU, but I still don't know what I will do after graduation. So I'm looking for something new that I can learn. I have basic knowledge in mathematics, algorithms and programming. In addition, I have good soft skills, and I'm still improving them: I dance social dances and conduct yoga classes for classmates.
+I am a third-year student of FAMS BSU, but I still don't know what I will do after graduation. So I'm looking for something new that I can learn. I have basic knowledge in mathematics, algorithms and programming. In addition, I have good soft skills, and I'm still improving them: I dance social dances and conduct yoga classes for my classmates at the university.
 
 ### **Skills**
 * С++
@@ -18,7 +18,7 @@ I am a third-year student of FAMS BSU, but I still don't know what I will do aft
 * Git
 
 ### **Code Example**
-Solving an algorithmic problem about a frog and mosquitoes on bumps:
+Solving an algorithmic problem about a frog and mosquitoes on bumps (C++):
 ```
 int64_t frog(std::vector<int64_t> &bumps) {
     int n = bumps.size();
