@@ -1,1 +1,1 @@
-# rsschool-cv
+https://aleksandra-spirina.github.io/rsschool-cv/cv
